@@ -12,6 +12,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/sogrape-aura/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sogrape-gazela/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sogrape-legado/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/wordpress-database/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
